@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfDeviceEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DeviceEntity>
+    <Name>NVIDIA GeForce GTX 1070 Ti</Name>
+    <ID>PCI\VEN_10DE&amp;DEV_1B82&amp;SUBSYS_244519DA&amp;REV_A1\4&amp;4BAA32C&amp;0&amp;0008</ID>
+  </DeviceEntity>
+  <DeviceEntity>
+    <Name>NVIDIA GeForce GTX 1070 Ti</Name>
+    <ID>PCI\VEN_10DE&amp;DEV_1B82&amp;SUBSYS_244519DA&amp;REV_A1\4&amp;2D78AB8F&amp;0&amp;0008</ID>
+  </DeviceEntity>
+  <DeviceEntity>
+    <Name>NVIDIA GeForce GTX 1080</Name>
+    <ID>PCI\VEN_10DE&amp;DEV_1B80&amp;SUBSYS_37021458&amp;REV_A1\4&amp;2D78AB8F&amp;0&amp;0008</ID>
+  </DeviceEntity>
+  <DeviceEntity>
+    <Name>NVIDIA GeForce GTX 1070</Name>
+    <ID>PCI\VEN_10DE&amp;DEV_1B81&amp;SUBSYS_1B8110DE&amp;REV_A1\4&amp;295CAE01&amp;0&amp;0008</ID>
+  </DeviceEntity>
+  <DeviceEntity>
+    <Name>NVIDIA GeForce GTX 1070</Name>
+    <ID>PCI\VEN_10DE&amp;DEV_1B81&amp;SUBSYS_00007377&amp;REV_A1\4&amp;3834D97&amp;0&amp;0008</ID>
+  </DeviceEntity>
+  <DeviceEntity>
+    <Name>NVIDIA GeForce GTX 1070</Name>
+    <ID>PCI\VEN_10DE&amp;DEV_1B81&amp;SUBSYS_143519DA&amp;REV_A1\4&amp;295CAE01&amp;0&amp;0008</ID>
+  </DeviceEntity>
+  <DeviceEntity>
+    <Name>NVIDIA GeForce GTX 1060 3GB</Name>
+    <ID>PCI\VEN_10DE&amp;DEV_1C02&amp;SUBSYS_243819DA&amp;REV_A1\4&amp;2B97D216&amp;0&amp;0008</ID>
+  </DeviceEntity>
+  <DeviceEntity>
+    <Name>NVIDIA GeForce GTX 1060 3GB</Name>
+    <ID>PCI\VEN_10DE&amp;DEV_1C02&amp;SUBSYS_11C210DE&amp;REV_A1\4&amp;2B97D216&amp;0&amp;0008</ID>
+  </DeviceEntity>
+</ArrayOfDeviceEntity>
